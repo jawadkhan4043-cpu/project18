@@ -1,0 +1,27 @@
+[
+  {
+    "intent": "fee",
+    "keywords": ["fee", "fees", "tuition", "challan", "dues", "payment", "scholarship"],
+    "reply": "Fee details depend on your program and semester. You can pay your fee through the bank challan or the online portal. For the exact amount, please check the latest fee schedule on the university website or contact the Accounts Office."
+  },
+  {
+    "intent": "admission",
+    "keywords": ["admission", "admissions", "apply", "application", "merit", "eligibility", "entry test", "enroll"],
+    "reply": "Admissions are announced twice a year, usually for the Fall and Spring sessions. You can apply online through the university admission portal. Please keep your academic documents, CNIC and passport size photos ready. Check the official website for deadlines and merit lists."
+  },
+  {
+    "intent": "timing",
+    "keywords": ["timing", "timings", "time", "schedule", "open", "close", "office hours", "working hours"],
+    "reply": "University offices are generally open Monday to Friday, 8:30 AM to 4:00 PM. Class timings vary by department, so please check your timetable or ask your department office."
+  },
+  {
+    "intent": "library",
+    "keywords": ["library", "book", "books", "borrow", "issue", "journal", "reading room"],
+    "reply": "The central library is open on working days and offers book issuing, a reading room and access to digital journals. Bring your student ID card to borrow books. Please return books on time to avoid fines."
+  },
+  {
+    "intent": "hostel",
+    "keywords": ["hostel", "hostels", "accommodation", "dorm", "room", "boarding", "mess"],
+    "reply": "Hostel seats are limited and allotted on a merit and availability basis. Apply through the Hostel Office with your admission letter, CNIC copy and photos. Hostel dues and mess charges are separate from tuition fee."
+  }
+]
